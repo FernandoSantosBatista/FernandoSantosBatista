@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @FernandoSantosBatista
-- 👀 I'm interested in full stack web application development
-- 🌱 I'm learning javascript, phyton, developing REST FULL applications with frameworks Vue.js, Express.js, Node.js and Django and studying Information Technology at college.
+- 👀 I'm interested in developing web applications.
+- 🌱 I'm learning javascript, phyton, developing REST FULL applications with Vue.js, Express.js, Node.js and Django frameworks, also studying Information Technology at Univesp-SP.
 - 📫 fernandodossantos005@gmail.com
 
 <!---
